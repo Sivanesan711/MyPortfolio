@@ -9,7 +9,7 @@ import { HomeComponent } from './home/home.component';
 
 const routes: Routes = [
 
-  {path: 'home' , component: HomeComponent},
+  {path: '' , component: HomeComponent},
   {path: 'bio' , component: BioComponent},
   {path: 'contact' , component: ContactComponent},
   {path: 'portfolio' , component: PortfolioComponent},
