@@ -1,0 +1,49 @@
+
+#portfolio {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background: url();
+  background-image: url('../../assets/oskars-sylwan-Xjg8t1KO26o-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: 1366px 768px;
+  color: aliceblue;
+  padding: 50px;
+}
+
+#portfolio div {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  width: 100%;
+  height: 330px;
+}
+
+#portfolio div article {
+  background: white;
+  color: black;
+  height: 200px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  border-radius: 10px;
+}
+
+
+
+#portfolio div article p {
+  padding: 0 5px;
+}
+
+#portfolio p,
+h3,
+hr {
+  margin-bottom: 20px;
+}
+
+#portfolio p{
+  font-size: 14px;
+}

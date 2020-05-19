@@ -1,0 +1,41 @@
+
+#home {
+  background-image: url('../../assets/brown-heart-cutout-decor-2120614.jpg');
+  background-repeat: no-repeat;
+  background-size: 1366px 768px;
+  color: aliceblue;
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header div p {
+  font-size: 2em;
+  font-weight: 200;
+  margin-top: -2em;
+  margin-left: 20em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 800;
+  margin-top: 1em;
+  margin-left: 20em;
+}
+
+
+h2 {
+  font-weight: 500;
+}
+
+header div h2 img
+{
+  width: 50%;
+  height: 50%;
+  margin-top: 2em;
+  margin-left: 20em;
+}
+

@@ -1,0 +1,37 @@
+#bio img {
+        width: 500px;
+        height: 300px;
+        border-radius: 50%;
+        margin: 100px;
+    }
+
+    #bio article * {
+        margin: 20px;
+    }
+
+    #bio p {
+        font-size: 1.5em;
+    }
+
+    .break {
+        display: block;
+    }
+
+    #bio {
+        display: flex;
+        align-items: center;
+    }
+
+
+    article p .my_name
+    {
+      font-weight: bold;
+    }
+
+    #bio
+    {
+      background-image: url('../../assets/oskars-sylwan-Xjg8t1KO26o-unsplash.jpg');
+      background-repeat: no-repeat;
+      background-size: 1366px 768px;
+      color: aliceblue;
+    }
