@@ -34,3 +34,9 @@ nav ul li {
 .nav-link:hover {
   color: orangered;
 }
+
+
+.logo:hover
+{
+  color: skyblue
+}
